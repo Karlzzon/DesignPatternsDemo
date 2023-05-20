@@ -5,8 +5,4 @@ public class Decaf extends Beverage {
         description = "Decaf";
         cost = 1.05;
     }
-
-    public double getCost() {
-        return cost;
-    }
 }

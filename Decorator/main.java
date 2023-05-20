@@ -19,6 +19,5 @@ public class main {
 
         Drinkable Drinkable = new Drinkable(WhippedCream);
         Drinkable.drink(); // We now added the functionality to drink a beverage through a decorator
-
     }
 }

@@ -5,8 +5,4 @@ public class Latte extends Beverage {
         description = "Latte";
         cost = 1.99;
     }
-
-    public double getCost() {
-        return cost;
-    }
 }
