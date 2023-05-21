@@ -3,7 +3,7 @@ package Decorator;
 import Decorator.Beverages.*;
 import Decorator.Decorators.*;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Beverage beverage = new Latte();
         System.out.println(beverage.getDescription() + " $" + beverage.getCost());
